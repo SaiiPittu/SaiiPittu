@@ -65,5 +65,6 @@ Specialized in building full-stack web applications, real-time voice streaming p
 ### Contact Information
 
 - Email: sairamakrishna568@gmail.com
-- LinkedIn: [linkedin.com/in/sairamakrishnaa](https://www.linkedin.com/in/saiipittu/)
+- LinkedIn: [linkedin.com/in/saiipittu](https://www.linkedin.com/in/saiipittu/)
+- X (Twitter): [x.com/saiipittu](https://www.x.com/saiipittu)
 
